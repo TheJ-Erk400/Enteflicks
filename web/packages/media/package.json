@@ -4,7 +4,7 @@
     "private": true,
     "dependencies": {
         "@/base": "*",
-        "file-type": "16.5.4",
+        "file-type": "21.3.1",
         "heic-convert": "^2.1",
         "jszip": "^3.10"
     },
