@@ -5,6 +5,6 @@
     "dependencies": {
         "@/base": "*",
         "@ente/eslint-config": "*",
-        "axios": "^1.6.7"
+        "axios": "^1.15.0"
     }
 }
