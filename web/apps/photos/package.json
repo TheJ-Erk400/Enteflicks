@@ -36,7 +36,7 @@
         "sanitize-filename": "^1.6.3",
         "similarity-transformation": "^0.0.1",
         "transformation-matrix": "^2.16",
-        "uuid": "^9.0.1",
+        "uuid": "^14.0.0",
         "xml-js": "^1.6.11",
         "zxcvbn": "^4.4.2"
     },
