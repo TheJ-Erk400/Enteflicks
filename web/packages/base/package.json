@@ -14,7 +14,7 @@
         "is-electron": "^2.2",
         "libsodium-wrappers-sumo": "^0.7.15",
         "nanoid": "^5.0.7",
-        "next": "^14.2",
+        "next": "^16.2",
         "react": "^18",
         "react-dom": "^18",
         "react-i18next": "^14"
